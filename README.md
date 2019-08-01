@@ -1,11 +1,11 @@
 # Kayzee
 
-## Cow Girl VS Zombies (Platformer Shooting Game)
+## KIRILL FEAT LOVE VS FRIENDS
 
 ### It has 5 levels.
 
 ### User Controls:
-#### UP/W
-#### LEFT/A
-#### RIGHT/D
-#### SPACE (SHOOT)
+#### UP/S
+#### LEFT/<-
+#### RIGHT/->
+#### A (SHOOT)
